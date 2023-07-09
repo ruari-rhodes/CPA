@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EXAMPLE_track_timestep",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "track_id": 346, "timestep": 264.0, "rel_vor_850": 12.99229, "day": 66.0, "time": "18:00", "date": "2014-02-04" }, "geometry": { "type": "Point", "coordinates": [ -12.137848, 49.634201 ] } },
+{ "type": "Feature", "properties": { "track_id": 349, "timestep": 264.0, "rel_vor_850": 5.553948, "day": 66.0, "time": "18:00", "date": "2014-02-04" }, "geometry": { "type": "Point", "coordinates": [ -48.737793, 40.348686 ] } },
+{ "type": "Feature", "properties": { "track_id": 351, "timestep": 264.0, "rel_vor_850": 8.703362, "day": 66.0, "time": "18:00", "date": "2014-02-04" }, "geometry": { "type": "Point", "coordinates": [ -28.989502, 59.910545 ] } },
+{ "type": "Feature", "properties": { "track_id": 355, "timestep": 264.0, "rel_vor_850": 1.603986, "day": 66.0, "time": "18:00", "date": "2014-02-04" }, "geometry": { "type": "Point", "coordinates": [ 11.31538, 39.998295 ] } }
+]
+}
